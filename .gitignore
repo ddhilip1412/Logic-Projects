@@ -1,3 +1,5 @@
-*.wav
-*.aiff
-*.undo
+# Blacklist everything
+*
+# Whitelist all directories
+!*.logicx/
+# Whitelist the file you're interested in. 
