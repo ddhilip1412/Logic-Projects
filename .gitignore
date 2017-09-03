@@ -1,5 +1,5 @@
 # Blacklist everything
 *
 # Whitelist all directories
-!*.logicx/
+!*logicx/
 # Whitelist the file you're interested in. 
